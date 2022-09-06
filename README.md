@@ -10,7 +10,7 @@ And develop bots for Telegram.**
 ![DOING: ](https://img.shields.io/badge/DOING-FFFFFF?style=flat)
 ![emok](https://img.shields.io/badge/NAIM_Lite-CS:GO_Cheats-E93E3E?style=flat-square)  
 ![DONE: ](https://img.shields.io/badge/DONE-FFFFFF?style=flat)
-[![AML-Bot](https://img.shields.io/badge/AML_Bot-Python-red?style=flat-square&logo=telegram&logoColor=white)](https://github.com/Osbornnnnn/AML-Bot)
+![AML-Bot](https://img.shields.io/badge/AML_Bot-Python-red?style=flat-square&logo=telegram&logoColor=white)
 
 ## 💪 Ultimate Skills 😄
 ![Frontend__](https://img.shields.io/badge/Frontend-FFFFFF?style=flat)
